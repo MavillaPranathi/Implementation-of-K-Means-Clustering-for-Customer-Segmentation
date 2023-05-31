@@ -65,23 +65,23 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-data.head() function:
+data.info():
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343610/552ddfd5-594f-455d-9810-ffa6d8065a92)
 
-data.info()
+data.isnull().sum() function
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343610/b0c1eed9-a891-492b-9434-a30f05930a26)
 
-data.isnull().sum() function
+Elbow method graph:
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343610/c45165ff-ee84-432f-bfc7-764cbf36669f)
 
-Elbow method Graph
+KMeans clusters
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343610/c76df224-2d9a-4365-a8c0-4b8ff1cd7194)
 
-KMeans clusters
+y_predict
 
 ![image](https://github.com/MavillaPranathi/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343610/d846f8f2-7b50-470e-8ae6-f035bd153879)
 
